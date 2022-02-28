@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Prince of Orange his third declaration</title>
+            <author>Speke, Hugh, 1656-1724?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93651</idno>
+            <idno type="STC">Wing S4914D</idno>
+            <idno type="STC">Thomason E1964_1*</idno>
+            <idno type="STC">ESTC R213733</idno>
+            <idno type="EEBO-CITATION">99896114</idno>
+            <idno type="PROQUEST">99896114</idno>
+            <idno type="VID">154077</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93651)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154077)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2396:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Prince of Orange his third declaration</title>
+                  <author>Speke, Hugh, 1656-1724?</author>
+                  <author>William III, King of England, 1650-1702, attributed name.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A spurious declaration. In fact by Hugh Speke--Wing (CD-ROM edition).</note>
+                  <note>Caption title.</note>
+                  <note>At end of text: Given under our hand and seal at our Head-quarters at Sherburn-Castle, the 28th. day of November, 1688.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Revolution of 1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:154077:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 7 -->
+            <head>THE <hi>Prince of Orange</hi> HIS THIRD DECLARATION.</head>
+            <p>WE have in the courſe of our whole Life, and more particularly by the apparent Hazards both by Sea and Land, to which we have ſo lately ex<g ref="char:EOLhyphen"/>poſed our Perſon, given to the whole World ſo high and undoubted Proofs of our fervent Zeal for the Pro<g ref="char:EOLhyphen"/>teſtant Religion, that we are fully confident no true Engliſh<g ref="char:EOLhyphen"/>man and good Proteſtant can entertain the leaſt Suſpicion of our firm Reſolution, rather to ſpend our deareſt Blood and periſh in the Attempt, than not carry on the Bleſſed and Glorious Deſign which by the Favour of Heaven we have ſo ſucceſsfully begun, to reſcue <hi>England, Scotland,</hi> and <hi>Ireland,</hi> from Slavery and Popery, and in a Free Parliament to eſtabliſh the Religion, the Laws and the Liberties of thoſe Kingdoms upon ſuch a ſure and laſting Foundation, that it ſhall not be in the Power of any Prince for the future to intro<g ref="char:EOLhyphen"/>duce Popery and Tyranny.</p>
+            <p>Towards the more eaſie Compaſſing this great Deſign, we have not been hitherto deceived in the juſt Expectation we had of the Concurrence of the Nobility, Gentry, and People of <hi>England,</hi> with Us for the Security of their Religion, the Reſtitution of their Laws, and the Re-eſtabliſhment of their Liberties and Properties: Great Numbers of all Ranks and
+<pb n="2" facs="tcp:154077:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 8 -->Qualitites, having joyned themſelves to us; and others at great Diſtances from Us, have taken up Arms and declared for Us. And, which we cannot but particularly mention, in that Army which was raiſed to be the Inſtrument of Sla<g ref="char:EOLhyphen"/>very and Popery; many (by the ſpecial Providence of God) both Officers and common Souldiers have been touched with ſuch a feeling ſenſe of Religion and Honour, and of true Affection for their Native Country, that they have already deſerted the Illegal Service they were ingaged in, and have come over to Us, and have given us full Aſſurance from the reſt of the Army, that they will certainly follow this Ex<g ref="char:EOLhyphen"/>ample, aſſoon as with our Army we ſhall approach near enough to receive them, without the Hazzard of being pre<g ref="char:EOLhyphen"/>vented and betray'd. To which end, and that we may the ſooner execute this juſt and neceſſary Deſign we are ingaged in for the publick Safety and Deliverance of theſe Nations, We are reſolved with all poſſible Diligence to advance for<g ref="char:EOLhyphen"/>ward, that a Free Parliament may be forthwith called, and ſuch Preliminaries adjuſted with the King, and all things firſt ſettled upon ſuch a foot according to Law, as may give Us and the whole Nation juſt Reaſon to believe the King is diſ<g ref="char:EOLhyphen"/>poſed to make ſuch neceſſary Condeſcentions on his part, as will give intire Satisfaction and Security to all, and make both King and People once more happy.</p>
+            <p>And that we may effect all this, in the way moſt agreeable to our Deſires, if it be poſſible without the Effuſion of any Blood, except of thoſe execrable Criminals who have juſtly forfeited their Lives for betraying the Religion and ſubverting the Laws of their Native Country, We do think fit to de<g ref="char:EOLhyphen"/>clare, that as we will offer no Violence to any but in our own Neceſſary Defence; ſo we will not ſuffer any Injury to be done to the Perſon even of a Papiſt, provided he be found in ſuch Place, and in ſuch Condition and Circumſtances as the Laws require. So we are reſolved and do declare that all Papiſts, who ſhall be found in open Arms, or with Arms in their Houſes, or about their Perſons, or in any Office or Imployment Civil or Military upon any Pretence whatſo<g ref="char:EOLhyphen"/>ever contrary to the known Laws of the Land, ſhall be trea<g ref="char:EOLhyphen"/>ted by Us and our Forces not as Souldiers and Gentlemen, but as Robbers, Free-Booters and <hi>Banditti;</hi> they ſhall be in<g ref="char:EOLhyphen"/>capable
+<pb n="3" facs="tcp:154077:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 8 -->of Quarter, and intirely delivered up to the Diſcre<g ref="char:EOLhyphen"/>tion of our Souldiers. And We do further declare that all Perſons who ſhall be found any ways aiding and aſſiſting to them, or ſhall march under their Command, or ſhall joyn with or ſubmit to them in the Diſcharge or Execution of their Illegal Commiſſions or Authority, ſhall be looked upon as Partakers of their Crimes, Enemies to the Laws, and to their Country.</p>
+            <p>And whereas we are certainly informed that great Num<g ref="char:EOLhyphen"/>bers of armed Papiſts have of late reſorted to <hi>London</hi> and <hi>Weſtminſter,</hi> and parts adjacent, where they remain, as we have reaſon to ſuſpect, not ſo much for their own Security, as out of a wicked and barbarous Deſign to make ſome deſ<g ref="char:EOLhyphen"/>perate Attempt upon the ſaid Cities, and their Inhabitants by Fire, or a ſudden Maſſacre, or both; or elſe to be the more ready to joyn themſelves to a Body of French Troops, deſigned, if it be poſſible, to land in <hi>England,</hi> procured of the French King, by the Intereſt and Power of the Jeſuits in Purſuance of the Engagements, which at the Inſtigation of that peſtilent Society, his moſt Chriſtian Majeſty, with one of his Neighbouring Princes of the ſame Communion, has entered into for the utter Extirpation of the Proteſtant Re<g ref="char:EOLhyphen"/>ligion out of Europe. Though we hope we have taken ſuch effectual care to prevent the one, and ſecure the other, that by God's Aſſiſtance, we cannot doubt but we ſhall de<g ref="char:EOLhyphen"/>feat all their wicked Enterpriſes and Deſigns.</p>
+            <p>We cannot however forbear out of the great and tender Concern We have to preſerve the People of <hi>England,</hi> and particularly thoſe great and populous Cities, from the cruel Rage and bloody Revenge of the Papiſts, to Require and expect from all the Lord-Lieutenants, Deputy-Lieutenants, and Juſtices of Peace, Lord-Mayors, Mayors, Sheriffs, and all other Magiſtrates and Officers Civil and Military, of all Counties, Cities and Towns of <hi>England,</hi> eſpecially of the County of <hi>Middleſex,</hi> and Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> and Parts adjacent, that they do immediately diſarm and ſe<g ref="char:EOLhyphen"/>cure, as by Law they may and ought, within their reſpe<g ref="char:EOLhyphen"/>ctive Counties, Cities and Juriſdictions, All Papiſts whatſo<g ref="char:EOLhyphen"/>ever, as Perſons at all times, but now eſpecially, moſt dan<g ref="char:EOLhyphen"/>gerous to the Peace and Safety of the Government, that ſo
+<pb n="4" facs="tcp:154077:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 9 -->not only all Power of doing miſchief may be taken from them; but that the Laws, which are the greateſt and beſt Security may reſume their Force, and be ſtrictly Executed.</p>
+            <p>And We do hereby likewiſe Declare that We will Pro<g ref="char:EOLhyphen"/>tect and Defend all thoſe who ſhall not be afraid to do their Duty in Obedience to theſe Laws. And that for thoſe Magi<g ref="char:EOLhyphen"/>ſtrates and others of what condition ſoever they be, who ſhall refuſe to aſſiſt Us, and in Obedience to the Laws to Execute vigorouſly what we have required of them, and ſuffer themſelves at this Junctuure to be cajoled or terrified out of their Duty, We will eſteem 'em the moſt Criminal and In famous of all Men, Betrayers of their Religion, the Laws, and their native Country, &amp; ſhall not fail to treat 'em accord<g ref="char:EOLhyphen"/>ingly; reſolving to expect and require at their hands the Life of every ſingle Proteſtant that ſhall periſh, and every Houſe that ſhall be burnt or deſtroyed by their Treachery and Cowardiſe.</p>
+            <closer>
+               <signed>
+                  <hi>William Henry</hi> Prince of <hi>Orange.</hi>
+               </signed> 
+               <dateline>Given under Our Hand and Seal at Our Head<g ref="char:EOLhyphen"/>quarters at <hi>Sherburn-Caſtle,</hi> 
+                  <date>the 28th. day of <hi>November,</hi> 1688.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>By his Highneſs ſpecial Command,</p>
+               <closer>
+                  <signed>C. HUYGENS.</signed>
+               </closer>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
